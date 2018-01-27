@@ -1,0 +1,27 @@
+{
+  "name": "unity.js",
+  "version": "0.1.0",
+  "description": "Simple Discord API wrapper",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberthumphrey/unity.js.git"
+  },
+  "keywords": [
+    "Discord",
+    "API",
+    "Wrapper",
+    "DiscordAPI"
+  ],
+  "author": "Robert Humphrey <thelordpraemark@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roberthumphrey/unity.js/issues"
+  },
+}
